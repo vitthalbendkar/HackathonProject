@@ -1,0 +1,31 @@
+10:26:54.380 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+10:26:57.098 [main] INFO  testing.TC003_Set_Wrong_Details - Entering details
+10:26:57.427 [main] INFO  testing.TC003_Set_Wrong_Details - clearing all fields 
+10:28:03.689 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+10:28:07.418 [main] INFO  testing.TC001_Doctor_Details - Visited the correct site
+10:28:43.301 [main] INFO  testing.TC001_Doctor_Details - Selected the city and doctor 
+10:28:45.566 [main] INFO  testing.TC001_Doctor_Details - getting list of doctors 
+10:29:36.339 [main] INFO  testing.TC001_Doctor_Details - Visited the correct site
+10:30:23.762 [main] INFO  testing.TC001_Doctor_Details - Selected the city and doctor 
+10:30:29.525 [main] INFO  testing.TC001_Doctor_Details - getting list of doctors 
+10:30:38.243 [main] INFO  testing.TC001_Doctor_Details - printed the list of doctors 
+10:30:50.593 [main] INFO  testing.TC001_Doctor_Details - printing doctors details in excel
+10:30:53.137 [main] INFO  testing.TC001_Doctor_Details - clicking on surgeries
+10:31:04.000 [main] INFO  testing.TC001_Doctor_Details - printing doctors details in excel
+10:31:04.154 [main] INFO  testing.TC002_Surgeries - scolling down till surgeries 
+10:31:06.423 [main] INFO  testing.TC001_Doctor_Details - clicking on surgeries
+10:31:15.294 [main] INFO  testing.TC002_Surgeries - printing surgeries in console 
+10:31:16.685 [main] INFO  testing.TC002_Surgeries - scolling down till surgeries 
+10:31:21.075 [main] INFO  testing.TC002_Surgeries - Navigating to workplace health page 
+10:31:27.049 [main] INFO  testing.TC003_Set_Wrong_Details - scrolling 
+10:31:27.709 [main] INFO  testing.TC002_Surgeries - printing surgeries in console 
+10:31:27.953 [main] INFO  testing.TC002_Surgeries - Navigating to workplace health page 
+10:31:28.271 [main] INFO  testing.TC003_Set_Wrong_Details - scrolling 
+10:31:38.108 [main] INFO  testing.TC003_Set_Wrong_Details - Entering details
+10:31:38.677 [main] INFO  testing.TC003_Set_Wrong_Details - Entering details
+10:31:39.463 [main] INFO  testing.TC003_Set_Wrong_Details - clearing all fields 
+10:31:44.594 [main] INFO  testing.TC003_Set_Wrong_Details - clearing all fields 
+10:31:52.435 [main] INFO  testing.TC004_Set_Correct_Details - Entering details again 
+10:32:08.309 [main] INFO  testing.TC004_Set_Correct_Details - Entering details again 
+12:38:19.634 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
+12:38:40.717 [main] INFO  testing.TC001_Doctor_Details - WebDriver initiated
